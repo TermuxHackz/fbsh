@@ -9,6 +9,9 @@ Generate your access token by login in your facebook account
 This tool is only to be used for educational purposes only and as such ant harm caused by the tool I won't be responsible for anything
 Use it wisely
 
+# Screenshot
+
+<img src="https://github.com/TermuxHackz/fbsh/blob/master/download.jpeg" width="250px" height="250px"/>
 
 
 # Installation of fbsh in termux
